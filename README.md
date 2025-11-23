@@ -1,2 +1,2 @@
-# Full-Stack-Web-App-Project
-NWU BSc IT final year group project for CMPG323 (IT Developments).
+# GitHub 101 Project - Udemy
+This is my project for GitHub 101.
